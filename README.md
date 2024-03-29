@@ -29,6 +29,7 @@ cd portfolio-website
 Open the index.html in your browser to view the site.
 
 Usage
+
 The website is divided into four main sections which can be navigated using the top navigation bar:
 
 About: Learn more about Fatin's educational background and interests.
