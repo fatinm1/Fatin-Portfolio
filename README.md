@@ -28,7 +28,7 @@ cd portfolio-website
 
 Open the index.html in your browser to view the site.
 
-Usage
+## Usage
 
 The website is divided into four main sections which can be navigated using the top navigation bar:
 
