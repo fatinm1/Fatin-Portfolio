@@ -47,7 +47,7 @@ Open a Pull Request
 
 ## License
 
-This project is open-source and available under the MIT License. The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
+This project is open-source and available under the MIT License. For more information view LICENSE.md
 
 ### What This Means
 
