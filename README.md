@@ -23,10 +23,9 @@ To set up the project locally on your machine:
    ```bash
    git clone https://github.com/fatinm1/Fatin-Portfolio
 
-Navigate to the project directory:
-cd portfolio-website
-
-Open the index.html in your browser to view the site.
+2. Navigate to the project directory:
+3. cd portfolio-website
+4. Open the index.html in your browser to view the site.
 
 ## Usage
 
