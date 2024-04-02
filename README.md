@@ -47,7 +47,7 @@ Open a Pull Request
 
 ## License
 
-This project is open-source and available under the MIT License. For more information view (LICENSE.md) file
+This project is open-source and available under the MIT License.
 
 ### What This Means
 
