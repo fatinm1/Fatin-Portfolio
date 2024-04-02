@@ -72,9 +72,9 @@ As a contributor, you are expected to respect the project's licensing and includ
 
 ### License File
 
-You can find a copy of the MIT License in the [LICENSE](LICENSE) file in this repository. This file contains the full legal text of the license, detailing your rights and responsibilities under the terms of the MIT License.
+You can find a copy of the MIT License in the [LICENSE](LICENSE.md) file in this repository. This file contains the full legal text of the license, detailing your rights and responsibilities under the terms of the MIT License.
 
-We recommend reading the [LICENSE](LICENSE) file for the exact legal terms that apply to the software. If you have any questions or concerns about the license and what it permits, we encourage open discussion through issues in this repository or direct contact with the project maintainers.
+We recommend reading the [LICENSE](LICENSE.md) file for the exact legal terms that apply to the software. If you have any questions or concerns about the license and what it permits, we encourage open discussion through issues in this repository or direct contact with the project maintainers.
 
 Support
 If you have any questions or feedback, please reach out to Fatin at fatinm1@umbc.edu or open an issue in the repository.
