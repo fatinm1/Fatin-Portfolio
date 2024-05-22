@@ -251,31 +251,31 @@ header {
 }
 
 .progress-line .c2::after {
-  content: "80%";
+  content: "3 years";
 }
 .progress-line .python::after {
-  content: "70%";
+  content: "2.5 years";
 }
 .progress-line .java::after {
-  content: "60%";
+  content: "2 years";
 }
 .progress-line .javascript::after {
-  content: "60%";
+  content: "2 years";
 }
 .progress-line .c::after {
-  content: "80%";
+  content: "3 years";
 }
 .progress-line .prolog::after {
-  content: "70%";
+  content: "1.5 years";
 }
 .progress-line .html::after {
-  content: "70%";
+  content: "1.5 years";
 }
 .progress-line .css::after {
-  content: "70%";
+  content: "1.5 years";
 }
 .progress-line .scheme::after {
-  content: "70%";
+  content: "1.5 years";
 }
 
 @keyframes pulseAnimation {
