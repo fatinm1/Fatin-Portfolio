@@ -197,31 +197,31 @@ header {
 }
 
 .progress-line .c2 {
-  width: 80%;
+  width: 60%;
 }
 .progress-line .python {
-  width: 70%;
+  width: 40%;
 }
 .progress-line .java {
-  width: 60%;
+  width: 30%;
 }
 .progress-line .javascript {
-  width: 60%;
+  width: 30%;
 }
 .progress-line .c {
-  width: 80%;
+  width: 60%;
 }
 .progress-line .prolog {
-  width: 70%;
+  width: 40%;
 }
 .progress-line .html {
-  width: 70%;
+  width: 40%;
 }
 .progress-line .css {
-  width: 70%;
+  width: 40%;
 }
 .progress-line .scheme {
-  width: 70%;
+  width: 40%;
 }
 
 .bar .progress-line span::before {
